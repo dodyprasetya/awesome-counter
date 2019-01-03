@@ -1,6 +1,6 @@
 # Awesome Counter
 
-This is a simple number counter Android application written by Kotlin by **Dody Prasetya**. The purpose of this app is only for documentation of my blog post tutorial **Get to Know About Android Activity** -> https://thesimplycoder.com/67/get-to-know-about-android-activity/
+This is a simple number counter Android application written by Kotlin by **Dody Prasetya**. The purpose of this app is only for documentation of my blog post tutorial [**Get to Know About Android Activity**](https://thesimplycoder.com/67/get-to-know-about-android-activity/).
 
 --------------------
 ### What will you learn ###
